@@ -1,0 +1,2 @@
+# blog
+DjangoGirls tutorial blog
